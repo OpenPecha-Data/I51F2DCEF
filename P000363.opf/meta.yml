@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W27491
   title: རྙིང་མའི་རྒྱུད་བཅུ་བདུན།（འབྲུག་བུམ་ཐང་ཐར་པ་གླིང་གི་པར་མ།）
-  volume: ''
+  volume:
+    3edb7e9e1219420b9a3ce450664ee4ba:
+      image_group_id: I4447
+      title: ''
+      volume_number: 1
+      total_pages: 746
+    c0e0385fccee42baac49ce82162ee519:
+      image_group_id: I4448
+      title: ''
+      volume_number: 2
+      total_pages: 666
   author: ''
+ebook_metadata:
+  title: རྙིང་མའི་རྒྱུད་བཅུ་བདུན།（འབྲུག་བུམ་ཐང་ཐར་པ་གླིང་གི་པར་མ།）
+  author: ''
+  sku: P000363
+  cover: cover.jpg
+  layers:
+  - pagination
